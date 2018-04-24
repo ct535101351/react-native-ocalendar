@@ -1,6 +1,6 @@
 # react-native-minimalism-calendar
 
-1.`npm install react-native-minimalism-calendar`
+1.`npm install react-native-minimalism-calendar --save`
 
 2.在`App.js`中 `import MinimalismCalendar from 'react-native-minimalism-calendar'`
 
