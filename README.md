@@ -58,5 +58,5 @@ const styles = StyleSheet.create({
   }
 });
 ```
-![QQ20180424-175650-HD.gif](https://upload-images.jianshu.io/upload_images/7262870-46579495f5ac0bf1.gif?imageMogr2/auto-orient/strip)
+![image](https://upload-images.jianshu.io/upload_images/7262870-46579495f5ac0bf1.gif?imageMogr2/auto-orient/strip)
   
