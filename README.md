@@ -58,5 +58,5 @@ const styles = StyleSheet.create({
   }
 });
 ```
-![image](https://upload-images.jianshu.io/upload_images/7262870-46579495f5ac0bf1.gif?imageMogr2/auto-orient/strip.gif)
+![image](https://github.com/ct535101351/react-native-minimalism-calendar/blob/master/Demonstration.gif)
   
