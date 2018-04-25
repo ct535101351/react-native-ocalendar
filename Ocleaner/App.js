@@ -15,7 +15,7 @@ import {
   Alert
 } from 'react-native';
 
-import MinimalismCalendar from 'react-native-minimalism-calendar';
+import MinimalismCalendar from 'react-native-ocalendar';
 export default class App extends Component {
   constructor(props){
      super(props)
