@@ -1,4 +1,4 @@
-# react-native-minimalism-calendar
+# react-native-ocalendar
 
 1.`npm install react-native-ocalendar --save`
 
