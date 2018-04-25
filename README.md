@@ -1,8 +1,8 @@
 # react-native-minimalism-calendar
 
-1.`npm install react-native-minimalism-calendar --save`
+1.`npm install react-native-ocalendar --save`
 
-2.在`App.js`中 `import MinimalismCalendar from 'react-native-minimalism-calendar'`
+2.在`App.js`中 `import MinimalismCalendar from 'react-native-ocalendar'`
 
 3.源码:
 ```
@@ -17,7 +17,7 @@ import {
   Alert
 } from 'react-native';
 
-import MinimalismCalendar from 'react-native-minimalism-calendar';
+import MinimalismCalendar from 'react-native-ocalendar';
 export default class App extends Component {
   constructor(props){
      super(props)
@@ -58,5 +58,5 @@ const styles = StyleSheet.create({
   }
 });
 ```
-![image](https://github.com/ct535101351/react-native-minimalism-calendar/blob/master/Demonstration.gif)
+![image](https://github.com/ct535101351/react-native-ocalendar/blob/master/Demonstration.gif)
   
